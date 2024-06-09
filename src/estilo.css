@@ -1,0 +1,10 @@
+.fx-div{
+display: flex;
+align-items: center;
+}
+.logo{
+    width: 174px;
+    height: 77px;
+   
+    margin: 10px;
+}
