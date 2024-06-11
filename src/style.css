@@ -1,0 +1,59 @@
+body{
+    margin: 0px;
+    font-family: 'Open Sans', Arial, Helvetica, 'Liberation Sans', FreeSans, sans-serif;
+}
+.fx-div{
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.logo{
+    width: 174px;
+    height: 77px;
+    margin: 20px;
+}
+.phone{
+    margin: 20px;
+    height: 48px;
+    width: 48px;
+}
+.btn-info{
+    margin: 3px;
+}
+h3{
+margin: 0px;
+font-size: 20px;
+font-family: 'Open Sans', Arial, Helvetica, 'Liberation Sans', FreeSans, sans-serif;
+color: #5c5c5c;
+font-weight: 800 !important;
+letter-spacing: -0.4px !important;
+box-sizing: border-box;
+}
+h2{
+    font-size: 16px;
+    font-family: 'Open Sans', Arial, Helvetica, 'Liberation Sans', FreeSans, sans-serif;
+    color: #5c5c5c;
+    
+}
+img{
+    height: 30px;
+    width: 30px;
+}
+/*div pai fx-btn */
+.fx-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0078b9;
+}
+.buttons{
+    margin: 20px;
+    color: aliceblue;
+    text-decoration: 0;
+    
+}
+input{
+    margin: 20px;
+    
+}
